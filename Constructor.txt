@@ -29,4 +29,8 @@ Destructor:
 
  
 
-       
+   WhatsApp Development:
+    1. calls
+    2. chat
+    3. media sharing
+    4. hiding last seen
