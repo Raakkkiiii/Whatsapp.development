@@ -1,0 +1,32 @@
+CONSTRUCTOR:
+           * Constructor is a special method in c++.
+
+           * Class name and function(constructor) name will be same.
+
+           * There is no return type(void) for constructor.
+
+           * We can't make abstract reference to constructor.
+
+           * When we create an object for a class the default 
+             constructor will  get called automatically.
+
+           * It supports method(or)function overloading and doesn't
+              support method(or)function overriding.
+
+Types of Constructor:
+
+            1. Default constructor / Non- parameterized.
+            2. Parameterized.
+    
+Copy Constructor:
+        * A copy constructor is a member function that initializies an object using another object of the same class.
+
+Destructor:
+           * Destructor name should be same as class name prefixed with tilde(~) operator.
+           * It should be public.
+           * It doesn't contains arguments, never contains return type(void).
+           * It will be called automatically when the object goes out of the scope.
+
+ 
+
+       
