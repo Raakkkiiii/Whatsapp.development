@@ -34,3 +34,5 @@ Destructor:
     2. chat
     3. media sharing
     4. hiding last seen
+    5. Add community feature
+    6. gruop calls
